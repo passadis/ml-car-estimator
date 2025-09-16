@@ -235,4 +235,8 @@ For issues and questions:
 
 ---
 
+
+<img width="1233" height="936" alt="azaml" src="https://github.com/user-attachments/assets/67df0497-cd44-44b8-a3eb-f9bb5055fb8a" />
+
+
 **Built with ❤️ using Azure Cloud Services and Next.js**
