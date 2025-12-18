@@ -77,7 +77,7 @@ export async function POST(request: Request) {
     const requestHeaders = new Headers({
       "Content-Type": "application/json",
       "Authorization": `Bearer ${apiKey}`,
-      "azureml-model-deployment": "carmodeldata1-1", // As specified in your consume script
+      "azureml-model-deployment": "festivetechjob11-1", // As specified in your consume script
     });
 
     console.log("Calling Azure ML endpoint with body:", JSON.stringify(requestBody, null, 2));
