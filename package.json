@@ -13,7 +13,7 @@
     "@azure/storage-blob": "^12.27.0",
     "@types/uuid": "^10.0.0",
     "lucide-react": "^0.516.0",
-    "next": "15.4.10",
+    "next": "15.5.10",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "uuid": "^11.1.0"
